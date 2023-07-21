@@ -1,0 +1,25 @@
+.form-group{
+    border: 1px solid red !important;
+}
+
+.symbol{
+    /* border: 1px solid greenyellow !important; */
+    display: flex;
+    justify-content: center;
+    gap: 0 !important;
+    align-items: center;
+    width: 100%;
+}
+
+.symbol > a{
+    /* border: 1px solid blue; */
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    box-shadow: 1px 1px 5px grey;
+    gap:10px;
+    border-radius: 6px;
+    font-size: 20px;
+}

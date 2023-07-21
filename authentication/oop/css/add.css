@@ -1,0 +1,14 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+
+
+#frm{
+    /* border: 1px solid green; */
+    padding: 10px;
+}
+
+.form-group{
+    padding: 20px;
+}
